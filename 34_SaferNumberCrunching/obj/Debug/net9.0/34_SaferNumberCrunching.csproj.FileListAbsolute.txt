@@ -1,0 +1,15 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\bin\Debug\net9.0\34_SaferNumberCrunching.exe
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\bin\Debug\net9.0\34_SaferNumberCrunching.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\bin\Debug\net9.0\34_SaferNumberCrunching.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\bin\Debug\net9.0\34_SaferNumberCrunching.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\bin\Debug\net9.0\34_SaferNumberCrunching.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\34_SaferNumberCrunching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\34_SaferNumberCrunching.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\34_SaferNumberCrunching.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\34_SaferNumberCrunching.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\34_SaferNumberCrunching.sourcelink.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\34_SaferNumberCrunching.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\refint\34_SaferNumberCrunching.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\34_SaferNumberCrunching.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\34_SaferNumberCrunching.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\34_MethodsRevisted_Challenges\34_SaferNumberCrunchingApp\34_SaferNumberCrunching\obj\Debug\net9.0\ref\34_SaferNumberCrunching.dll
